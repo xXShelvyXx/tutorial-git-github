@@ -1,2 +1,3 @@
 # tutorial-git-github
-Repositorio utilizado para demostrar el flujo basico de trabajo con Git y Github
+
+Este repositorio se utiliza para demostrar el funcionamiento de repositorios, ramass y pull requests
